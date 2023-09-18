@@ -33,3 +33,5 @@ Angle between the vectors
 Again, if the user does not wish to perform any operation, they can enter the number 0, and the program will terminate this time.
 
 Note that all operations except 4 and 5 pertain to vectors of the same dimensions. If the vectors form a 90-degree angle, instead of displaying "angle of 90 degrees" to the user, the program will indicate that the vectors are "orthogonal." If all operations can be performed and the user chooses to calculate the angle between the vectors first, the program will display a message informing them that this operation cannot be calculated unless operations 3, 4, and 5 are performed first. Each time the user performs an operation, the corresponding result will be displayed on the screen.
+
+2022 All Rights Reserved ©
